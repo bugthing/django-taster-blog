@@ -1,0 +1,1 @@
+from taster.settings import *
