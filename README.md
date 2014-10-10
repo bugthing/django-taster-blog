@@ -17,7 +17,6 @@ Install
     mv django/django ../django-taster-blog/
     mv djangoappengine/djangoappengine ../django-taster-blog/
     mv djangotoolbox/djangotoolbox ../django-taster-blog/
-    mv django-autoload/autoload ../django-taster-blog/
     mv django-dbindexer/dbindexer ../django-taster-blog/
     mv django-autoload/autoload ../django-taster-blog/
     cd ../django-taster-blog
